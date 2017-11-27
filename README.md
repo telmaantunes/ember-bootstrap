@@ -16,7 +16,7 @@ You will need the following things properly installed on your computer.
 1. Clone the project
 
 ```bash
-$ git clone git@github.com:telmantunes/ember-bootstrap.git
+$ git clone git@github.com:telmaantunes/ember-bootstrap.git
 ```
 2. Go to the project's folder and install the dependencies
 
